@@ -1,1 +1,1 @@
-# attention-guided-multi-modal-machine-learning-on-edge
+# University of California, Irvine_GREAT Program_Research
